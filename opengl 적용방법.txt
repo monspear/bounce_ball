@@ -1,0 +1,17 @@
+https://siriusp.tistory.com/384
+
+1. 비주얼 스튜디오 2022 c++용 빈 프로젝트 만들기
+2. 프로젝트명에 우클릭후 NuGet패키지 관리 클릭
+3. 찾아보기에서 Nupen 검색
+4. nupengl.core 설치
+5. #include<gl/glut.h> 포함
+6.
+void main(int argc, char** argv) {
+	glutInit(&argc, argv);
+	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
+	glutInitWindowPosition(50, 50);
+	glutInitWindowSize(width, height);
+	glutCreateWindow("창의 제목");
+	
+	glutMainLoop();
+} 
