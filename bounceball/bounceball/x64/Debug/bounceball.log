@@ -1,0 +1,27 @@
+﻿  bounceball.cpp
+D:\bounceball\bounceball\bounceball\bounceball.cpp(13,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(14,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(50,9): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(53,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(54,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(63,9): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(67,14): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(75,8): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(79,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(104,10): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(137,24): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(186,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(209,27): warning C4244: '*=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(214,27): warning C4244: '*=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(219,27): warning C4244: '*=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(224,27): warning C4244: '*=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(238,24): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(295,26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(292,8): warning C4101: 'bar_collison' :참조되지 않은 지역 변수입니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(357,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(358,23): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(358,14): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(359,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(360,23): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\bounceball\bounceball\bounceball\bounceball.cpp(360,18): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bounceball.vcxproj -> D:\bounceball\bounceball\x64\Debug\bounceball.exe
